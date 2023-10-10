@@ -1,7 +1,5 @@
 ### Hi there 👋
-### Justin Lee
-### Data Science and Economics
-### 2028
+### hello there
 <!--
 **jiissung/jiissung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
